@@ -1,6 +1,10 @@
 import edu.princeton.cs.algs4.StdOut;
 
-
+/**
+ * 
+ * @author john
+ *	 打印布尔数组
+ */
 public class ex_1_1_11 {
 
 	public static void func_11(){
